@@ -1,0 +1,30 @@
+calendar application
+
+https://help.github.com/articles/set-up-git/
+https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
+
+configure github
+
+
+- calendar will open in month view, with options for day and week.
+	- all views will need some sort of scroll/swipe abilty to go between days/weeks, etc
+	- month view will have a symbol if event is stored
+	- week view will be columns, or column at top with hourly breakdown
+	- day view will display current day, or day clicked on in week/month view
+
+- holidays auto generated
+
+- options for day view:
+	- full page dedicated to current day with a button to add event
+	- current day gets selected in whichever view user is currently in (month/week)
+	  with option to add event at bottom of screen
+
+
+- view with all uncoming events (possibly with a maximum extent ie. all events in next week)
+
+- ability to publish event, store events from outside sources (ie. facebook)
+
+- ability to click on event and email/share those event details
+
+- event will have a name, start/end time, optional description/reminder
+
